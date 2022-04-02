@@ -1,1 +1,1 @@
-仿Thinkphp结构
+Beego后台框架，仿Thinkphp结构
