@@ -1,2 +1,3 @@
-Beego后台框架，Thinkphp结构
+Beego后台框架
+
 https://beego.gocn.vip/beego/zh
